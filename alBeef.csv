@@ -1,0 +1,131 @@
+,country,food_category,consumption,co2_emmission
+2,Argentina,Beef,55.48,1712.0
+13,Australia,Beef,33.86,1044.85
+24,Albania,Beef,22.5,694.3
+35,Iceland,Beef,13.36,412.26
+46,New Zealand,Beef,22.49,693.99
+57,USA,Beef,36.24,1118.29
+68,Uruguay,Beef,29.1,897.9599999999998
+79,Luxembourg,Beef,29.88,922.03
+90,Brazil,Beef,39.25,1211.1699999999996
+101,Kazakhstan,Beef,23.38,721.4599999999998
+112,Sweden,Beef,24.58,758.49
+123,Bermuda,Beef,33.15,1022.94
+134,Denmark,Beef,28.46,878.22
+145,Finland,Beef,19.22,593.09
+156,Ireland,Beef,22.35,689.6700000000002
+167,Greece,Beef,16.1,496.81
+178,France,Beef,23.81,734.73
+189,Canada,Beef,30.25,933.45
+200,Norway,Beef,19.83,611.91
+211,Hong Kong SAR. China,Beef,25.82,796.75
+222,French Polynesia,Beef,30.9,953.51
+233,Israel,Beef,28.78,888.09
+244,Switzerland,Beef,21.26,656.04
+255,Netherlands,Beef,17.67,545.26
+266,Kuwait,Beef,13.03,402.08
+277,United Kingdom,Beef,18.12,559.15
+288,Austria,Beef,17.14,528.9
+299,Oman,Beef,15.1,465.95
+310,Italy,Beef,18.6,573.9599999999998
+321,Bahamas,Beef,19.92,614.69
+332,Portugal,Beef,16.45,507.61
+343,Malta,Beef,19.22,593.09
+354,Armenia,Beef,19.66,606.6700000000002
+365,Slovenia,Beef,18.43,568.71
+376,Chile,Beef,23.86,736.2700000000002
+387,Venezuela,Beef,25.89,798.91
+398,Belgium,Beef,15.63,482.31
+409,Germany,Beef,13.16,406.09
+420,Russia,Beef,16.979999999999997,523.97
+431,Croatia,Beef,12.41,382.95
+442,Belarus,Beef,17.110000000000007,527.98
+453,Spain,Beef,12.15,374.92
+464,Paraguay,Beef,19.81,611.2900000000002
+475,New Caledonia,Beef,16.07,495.89
+486,South Africa,Beef,18.03,556.37
+497,Barbados,Beef,13.13,405.16
+508,Lithuania,Beef,4.49,138.55
+519,Turkey,Beef,11.64,359.19
+530,Estonia,Beef,7.19,221.87
+541,Mexico,Beef,15.33,473.05
+552,Costa Rica,Beef,15.23,469.97
+563,Bolivia,Beef,19.78,610.37
+574,Ecuador,Beef,16.610000000000007,512.55
+585,Panama,Beef,20.4,629.5
+596,Czech Republic,Beef,8.15,251.49
+607,Romania,Beef,4.78,147.5
+618,Colombia,Beef,16.36,504.84
+629,Maldives,Beef,9.44,291.3
+640,Cyprus,Beef,5.79,178.67
+651,Serbia,Beef,7.05,217.55
+662,United Arab Emirates,Beef,5.64,174.04
+673,Algeria,Beef,5.6,172.8
+684,Ukraine,Beef,8.96,276.48999999999995
+695,Pakistan,Beef,8.82,272.17
+706,Swaziland,Beef,15.1,465.95
+717,Latvia,Beef,5.1099999999999985,157.68
+728,Bosnia and Herzegovina,Beef,9.12,281.42
+739,Fiji,Beef,8.96,276.48999999999995
+750,South Korea,Beef,14.53,448.37
+761,Poland,Beef,2.32,71.59
+772,Saudi Arabia,Beef,6.45,199.03
+783,Botswana,Beef,7.85,242.23
+794,Macedonia,Beef,7.689999999999999,237.3
+805,Hungary,Beef,4.96,153.06
+816,Trinidad and Tobago,Beef,6.13,189.16
+827,Tunisia,Beef,5.53,170.64
+838,Egypt,Beef,12.88,397.45
+849,Mauritius,Beef,5.99,184.84
+860,Bulgaria,Beef,3.84,118.49
+871,Morocco,Beef,8.04,248.1
+882,Slovakia,Beef,5.19,160.15
+893,Niger,Beef,8.97,276.8
+904,Kenya,Beef,9.54,294.38
+915,Jordan,Beef,5.6099999999999985,173.11
+926,Japan,Beef,9.15,282.35
+937,Georgia,Beef,6.04,186.38
+948,Grenada,Beef,3.46,106.77
+959,El Salvador,Beef,5.95,183.6
+970,Cuba,Beef,6.39,197.18
+981,China,Beef,5.119999999999999,157.99
+992,Honduras,Beef,7.19,221.87
+1003,Taiwan. ROC,Beef,5.21,160.76999999999995
+1014,Angola,Beef,8.42,259.82
+1025,Jamaica,Beef,3.97,122.51
+1036,Namibia,Beef,3.75,115.72
+1047,Belize,Beef,4.8599999999999985,149.97
+1058,Malaysia,Beef,6.52,201.19
+1069,Zimbabwe,Beef,7.37,227.42
+1080,Guatemala,Beef,5.6,172.8
+1091,Uganda,Beef,5.15,158.92000000000004
+1102,Nepal,Beef,7.89,243.47
+1113,Iran,Beef,3.58,110.47
+1124,Tanzania,Beef,6.09,187.92
+1135,Senegal,Beef,5.85,180.52
+1146,Peru,Beef,4.69,144.72
+1157,Nicaragua,Beef,4.73,145.96
+1168,Vietnam,Beef,7.44,229.58
+1179,Ethiopia,Beef,3.61,111.4
+1190,Myanmar,Beef,4.94,152.44
+1201,Congo,Beef,4.35,134.23
+1212,Zambia,Beef,4.76,146.88000000000005
+1223,Cameroon,Beef,4.17,128.68
+1234,Madagascar,Beef,7.51,231.74
+1245,Malawi,Beef,2.35,72.52
+1256,Guinea,Beef,6.26,193.17
+1267,Nigeria,Beef,2.33,71.9
+1278,Rwanda,Beef,2.53,78.07
+1289,Philippines,Beef,4.06,125.28
+1300,Ghana,Beef,1.09,33.64
+1311,Togo,Beef,1.53,47.21
+1322,Gambia,Beef,2.16,66.64999999999999
+1333,India,Beef,0.81,24.99
+1344,Thailand,Beef,2.56,79.0
+1355,Mozambique,Beef,1.04,32.09
+1366,Cambodia,Beef,4.85,149.66
+1377,Sierra Leone,Beef,1.99,61.41
+1388,Sri Lanka,Beef,1.38,42.58
+1399,Indonesia,Beef,2.59,79.92
+1410,Liberia,Beef,0.7799999999999999,24.07
+1421,Bangladesh,Beef,1.28,39.5
